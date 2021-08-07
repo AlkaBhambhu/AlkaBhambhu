@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alka Bhambhu
 - 🌱 I’m Buiness Analytics & insights student.
-- 🏸 I am just having fun with Data.
+- 🏸 Just having fun with Data.
 - 📫 Reach me at Alkabhambhu98@gmail.com
 
 <!---
