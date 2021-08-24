@@ -1,6 +1,6 @@
-<h3 align="Center">Hi 👋, I'm Alka Bhambhu</h1>
-<h4 align="Center">A Curious Learner</h3>
-<img align="right" alt="Coding" width="200" src="https://cdn.dribbble.com/users/264642...">
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
+
+<h3 align="center">Hi 👋, I'm Alka Bhambhu</h1>
 
 
 
