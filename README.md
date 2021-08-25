@@ -1,6 +1,6 @@
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
-
-  >## Hi 👋, I'm Alka Bhambhu  
+   
+   >## Hi 👋 I'm Alka Bhambhu!! 
 - 👩🏻‍💻 I am Business analytics & insights student.
 - 🏸 I like to have fun with data.
 - 📫 Reach me at **Alkabhambhu98@gmail.com**
