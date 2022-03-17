@@ -1,10 +1,18 @@
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
    
-   >## Hi 👋 I'm Alka Bhambhu!! 
-- 👩🏻‍💻 I am Business analytics & insights student.
-- 🏸 I like to have fun with data.
-- 📫 Reach me at **Alkabhambhu98@gmail.com**
-- 🤝 Connect with me at : <a href="https://linkedin.com/in/alka-bhambhu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alka-bhambhu" height="19" width="25" /></a>
+   >## Hi 👋 I'm Alka!! 
+
+👩🏻‍🎓 Currently pursuing Business analytics and insights diploma from Centennial College.
+
+👩🏻‍💻 Before transitioning into Business Intelligence,I was accountant with Bachelor's degree in Business.
+
+✈️ Moved from New Delhi🇮🇳 to Toronto🇨🇦 in 2021.
+
+
+
+
+
+
 </p>
 
 
