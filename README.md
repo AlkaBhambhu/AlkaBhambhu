@@ -8,12 +8,10 @@
 
 ✈️ Moved from New Delhi🇮🇳 to Toronto🇨🇦 in 2021.
 
+🧰 Toolbox includes Python, MySQL, Tableau, MS Excel, SAS and SAP.
 
+🌅 Loves long walk and Jump rope.
 
-
-
-
-</p>
 
 
 <!---
